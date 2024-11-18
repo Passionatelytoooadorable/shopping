@@ -3,8 +3,7 @@
 # Shopping 
 Shopping is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. You can choose various attributes like size and color. There is a cart where you can see added items and edit, add, or remove them. You can also set a currency of your choice.
 
-## Functionality Overview
-Below is a comprehensive overview of the functionalities that the website offers:
+## Features
 
 ### Managing Your Cart
 - Add and Remove Products: The website allows you to easily add products to your shopping cart with just a few clicks. You can also remove items from your cart when you change your mind or no longer wish to purchase them.
