@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41ab1811-b1d6-4c05-b313-59b15dcdf13b)
+![image](https://github.com/user-attachments/assets/f90be36c-8a0a-4dcf-b326-bc3cc3563a78)
 
 # Shopping 
 Shopping is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. You can choose various attributes like size and color. There is a cart where you can see added items and edit, add, or remove them. You can also set a currency of your choice.
