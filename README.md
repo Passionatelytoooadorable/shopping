@@ -3,7 +3,7 @@
 # Shopping 
 Shopping is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. You can choose various attributes like size and color. There is a cart where you can see added items and edit, add, or remove them. You can also set a currency of your choice.
 
-## Features
+## Features 🌟
 
 ### Managing Your Cart
 - Add and Remove Products: The website allows you to easily add products to your shopping cart with just a few clicks. You can also remove items from your cart when you change your mind or no longer wish to purchase them.
@@ -14,7 +14,7 @@ Shopping is an e-commerce website that has at least 150 women's clothing product
 
 - Product Attributes: When reviewing your cart or cart overlay, you'll find detailed information about each product, including selected size and other relevant attributes. This ensures you have a clear understanding of your choices before proceeding to checkout.
 
-### Streamlined Shopping
+### Streamlined Shopping 🛒
 - Category Filtering: The website makes it easy to find products within your preferred categories. You can filter products by various categories, making it simple to locate exactly what you're looking for.
 
 - Category and Product Page Shopping: Whether you prefer browsing by category or exploring individual product pages, you can add products to your cart from both locations. The website offers a seamless shopping experience to cater to your preferences.
@@ -30,7 +30,7 @@ Shopping is an e-commerce website that has at least 150 women's clothing product
 - Form Validations: To prevent errors and ensure accurate order information, the checkout page includes form validations. This guarantees that the necessary details are correctly entered, helping to streamline shopping experience.
 
 
-## Getting Started with Create React App
+## Getting Started with Create React App 🛠
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
