@@ -5,7 +5,7 @@ Shopping is an e-commerce website that has at least 150 women's clothing product
 
 ## Features 🌟
 
-### Managing Your Cart
+### Managing Your Cart 🛒
 - Add and Remove Products: The website allows you to easily add products to your shopping cart with just a few clicks. You can also remove items from your cart when you change your mind or no longer wish to purchase them.
 
 - Adjust Quantity: In addition to adding and removing items, you have the flexibility to change the quantity of products in your cart. Whether you want one more of your favorite item or need to reduce the quantity, it's a breeze.
@@ -14,14 +14,14 @@ Shopping is an e-commerce website that has at least 150 women's clothing product
 
 - Product Attributes: When reviewing your cart or cart overlay, you'll find detailed information about each product, including selected size and other relevant attributes. This ensures you have a clear understanding of your choices before proceeding to checkout.
 
-### Streamlined Shopping 🛒
+### Streamlined Shopping 🛍
 - Category Filtering: The website makes it easy to find products within your preferred categories. You can filter products by various categories, making it simple to locate exactly what you're looking for.
 
 - Category and Product Page Shopping: Whether you prefer browsing by category or exploring individual product pages, you can add products to your cart from both locations. The website offers a seamless shopping experience to cater to your preferences.
 
 - Attribute Selection: To maintain accuracy and prevent errors, you won't be able to add products to your cart until you've selected necessary attributes like size or color. This ensures that the items you receive are exactly what you expect.
 
-### Flexible Currency Options
+### Flexible Currency Options 💰
 - Currency Selection: The customers come from diverse locations around the world. That's why the website offers the flexibility to change the store currency to various options such as EUR, GBP, AUD, JPY, and more. Shop in the currency that suits you best.
 
 ### Secure and User-Friendly Checkout
